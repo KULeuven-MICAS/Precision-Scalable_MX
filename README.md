@@ -18,4 +18,14 @@ If you use this code in your work, you can cite us:
       primaryClass={cs.AR},
       url={https://arxiv.org/abs/2505.22404}, 
 }
+
+@misc{cuyckens2025precisionscalablemicroscalingdatapathsoptimized,
+      title={Precision-Scalable Microscaling Datapaths with Optimized Reduction Tree for Efficient NPU Integration}, 
+      author={Stef Cuyckens and Xiaoling Yi and Robin Geens and Joren Dumoulin and Martin Wiesner and Chao Fang and Marian Verhelst},
+      year={2025},
+      eprint={2511.06313},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2511.06313}, 
+}
 ```
