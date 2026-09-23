@@ -256,7 +256,7 @@ module snax_MX_tensor_core_shell_wrapper #(
         acc2stream_0_data_o[(i*64)+(j*8)+:8] = Out[8-1-i][8-1-j];
       end
     end
-    acc2stream_0_data_o[StreamCDataWidth-1-64+:8] = shared_exp_out;
+      acc2stream_0_data_o[StreamCDataWidth-1-63+:8] = shared_exp_out;
   end
 
   logic A_valid;
